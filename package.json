@@ -1,0 +1,22 @@
+{
+  "name": "ronda-style",
+  "version": "0.0.1",
+  "description": "Styles for Ronda project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dte-ba/ronda-style.git"
+  },
+  "keywords": [
+    "Ronda"
+  ],
+  "author": "Dte-ba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dte-ba/ronda-style/issues"
+  },
+  "homepage": "https://dte-ba.github.com/ronda-style"
+}
